@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+data/resumes/*
+data/job_descriptions/*
+data/processed/*
+outputs/reports/*
+outputs/logs/*
+!outputs/logs/.gitkeep
+!outputs/reports/.gitkeep
+.venv/
+venv/
