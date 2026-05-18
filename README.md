@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/AI-Gemini%202.5%20Flash-orange" alt="Gemini AI">
 </p>
 
+<h3 align="center">
+  🌐 Live Application: <a href="https://ai-resume-matcher-gemini.streamlit.app/">https://ai-resume-matcher-gemini.streamlit.app/</a>
+</h3>
+
 <p align="center">
   <strong>An intelligent web application that matches your resume against job descriptions using advanced NLP and Google's Gemini AI.</strong>
 </p>
