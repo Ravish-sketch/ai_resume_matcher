@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://ai-resume-matcher-gemini.streamlit.app/" target="_blank">
-    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=social&logo=Streamlit&logoColor=red" alt="Open in Streamlit">
   </a>
   <a href="https://github.com/Ravish-sketch/ai_resume_matcher">
     <img src="https://img.shields.io/github/stars/Ravish-sketch/ai_resume_matcher?style=social" alt="GitHub Stars">
