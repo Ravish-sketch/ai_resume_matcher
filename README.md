@@ -1,6 +1,19 @@
 <h1 align="center">🚀 AI Resume Screening & Job Matching System</h1>
 
 <p align="center">
+  <a href="https://ai-resume-matcher-gemini.streamlit.app/" target="_blank">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit">
+  </a>
+  <a href="https://github.com/Ravish-sketch/ai_resume_matcher">
+    <img src="https://img.shields.io/github/stars/Ravish-sketch/ai_resume_matcher?style=social" alt="GitHub Stars">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python 3.8+">
+  </a>
+  <img src="https://img.shields.io/badge/AI-Gemini%202.5%20Flash-orange" alt="Gemini AI">
+</p>
+
+<p align="center">
   <strong>An intelligent web application that matches your resume against job descriptions using advanced NLP and Google's Gemini AI.</strong>
 </p>
 
